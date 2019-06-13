@@ -1,3 +1,3 @@
 # SQLServerScripts
-These repository contains TSQL Scripts which can be used frequntly.
+These repository contains T-SQL Scripts which can be usefull while working with SQL Server.
 To check usage of diffrernt scripts, refer to file ScriptsInfo.xlsx
